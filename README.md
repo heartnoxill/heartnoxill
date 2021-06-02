@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner.png)
 
 - 👨‍🎓  I'm an undergraduate automation student at KMUTT, Thailand.
 - 🔭 I’m currently working on IoT web application project for capstone course.
