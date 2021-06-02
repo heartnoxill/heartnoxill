@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science/machine learning and studying English for TOEFL/IELTS exam.
 - 👯 I’m looking to collaborate on beginner level data science projects.
 - 🤔 I’m looking for help with studying abroad in USA/Canada.
-- 💬 Discuss with me about: Foods
 - 📫 How to reach me: pattaraponbuathong@gmail.com
 - ⚡ Fun fact: I'm a maps enthusiast.
 
