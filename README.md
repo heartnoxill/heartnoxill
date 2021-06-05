@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner.png)
+![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner%20(1).png)
 
 - 💻 Main Computer Language: Python
 - 🗣  Main Communication Language: English, Thai
