@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 💻 Main Computer Language: Python
 - 🗣  Main Communication Language: English, Thai
 - 👨‍🎓 I'm an undergraduate automation student at KMUTT, Thailand.
-- 🔭 I’m currently working on IoT web application project for capstone course.
 - 🌱 I’m currently learning data science/machine learning and studying English for TOEFL/IELTS exam.
 - 👯 I’m looking to collaborate on beginner level data science projects.
 - 🤔 I’m looking for help with studying abroad in USA/Canada.
