@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 ![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner%20(4).png)
 
+- 🔥 Road to Full-Stack Data Scientist
 - 💻 Main Computer Language: Python
 - 🗣  Main Communication Language: English, Thai
 - 👨‍🎓 I'm an undergraduate automation student at KMUTT, Thailand.
