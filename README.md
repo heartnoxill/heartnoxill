@@ -4,8 +4,8 @@
 **heartnoxill/heartnoxill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner%20(4).png)
+
+![banner](https://github.com/heartnoxill/heartnoxill/blob/main/Github%20banner%20(4).png)-->
 
 - 🔥 Road to Full-Stack Data Scientist
 - 💻 Main Computer Language: Python
