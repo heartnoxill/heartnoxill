@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I'm an undergraduate automation student at KMUTT, Thailand.
 - 🌱 I’m currently learning data engineering. Also, studying for TOEFL test.
 - 👯 I’m looking to collaborate on beginner level data projects.
-- 🤔 I’m looking for help with studying abroad (prefer USA, Canada, Australia, and New Zealand).
+- 🤔 I’m looking for help with studying abroad (prefer USA & Canada).
 - 📫 Email: pattaraponbuathong@gmail.com
 - 🏢 LinkedIn: https://www.linkedin.com/in/patt-bua/
 - ⚡ Fun fact: I'm a maps enthusiast.
