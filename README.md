@@ -14,5 +14,7 @@
 - 🏢 LinkedIn: https://www.linkedin.com/in/patt-bua/
 - 🧾 Resume: For internships, please proceed to contact me for it.
 - 🖥 My Website: http://heartnoxill.github.io/
+- ⬆ Kaggle: https://www.kaggle.com/heartnoxill
 - ⚡ Fun fact: I'm a maps enthusiast.
+
 
