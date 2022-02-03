@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with studying abroad (USA & Canada).
 - 📫 Email: pattaraponbuathong@gmail.com
 - 🏢 LinkedIn: https://www.linkedin.com/in/patt-bua/
-- 🧾 Resume: For internships, please proceed to contact me for it.
+- 🧾 Resume: For future co-operation, please proceed to contact me for it.
 - 🖥 My Website: http://heartnoxill.github.io/
 - ⬆ Kaggle: https://www.kaggle.com/heartnoxill
 - ⚡ Fun fact: I'm a maps enthusiast.
